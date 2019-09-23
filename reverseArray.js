@@ -1,3 +1,4 @@
+//say you want to reverse an array
 let arr = [1,2,3,4,5];
 
 console.log(arr); //[1, 2, 3, 4, 5]
