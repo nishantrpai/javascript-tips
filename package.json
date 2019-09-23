@@ -1,0 +1,22 @@
+{
+  "name": "javascript-tips",
+  "version": "1.0.0",
+  "description": "- [Getting an unique array](https://github.com/nishantrpai/javascript-tips/blob/master/uniqset.js) - [Merge two objects](https://github.com/nishantrpai/javascript-tips/blob/master/mergeObject.js) - [Merge two arrays](https://github.com/nishantrpai/javascript-tips/blob/master/mergeArrays.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantrpai/javascript-tips.git"
+  },
+  "author": "quicklyreact",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishantrpai/javascript-tips/issues"
+  },
+  "homepage": "https://github.com/nishantrpai/javascript-tips#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
